@@ -1,3 +1,0 @@
-pip install resumable-urlretrieve
-pip install image
-pip install opencv-python
